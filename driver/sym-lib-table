@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "FDD8424H")(type "KiCad")(uri "/home/krishna/Downloads/FDD8424H.kicad_sym")(options "")(descr ""))
   (lib (name "UCC27523D")(type "KiCad")(uri "/home/krishna/Downloads/UCC27523D.kicad_sym")(options "")(descr ""))
+  (lib (name "IFD95OC")(type "KiCad")(uri "${KIPRJMOD}/IFD95OC.kicad_sym")(options "")(descr ""))
 )
